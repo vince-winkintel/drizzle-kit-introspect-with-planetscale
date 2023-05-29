@@ -1,0 +1,8 @@
+# Contains every installed dependency for your project
+node_modules
+
+# Configuration file used to store environment variables for an application
+.env
+
+# Drizzle's output and schema folder
+drizzle
