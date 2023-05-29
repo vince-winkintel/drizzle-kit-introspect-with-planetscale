@@ -1,0 +1,11 @@
+{
+  "name": "drizzle-kit-introspect-with-planetscale",
+  "version": "1.0.0",
+  "description": "Demonstrate an issue with Drizzle-kit introspect with PlanetScale",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "https://github.com/vince-winkintel",
+  "license": "ISC"
+}
